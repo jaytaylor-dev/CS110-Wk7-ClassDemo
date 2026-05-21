@@ -28,9 +28,7 @@ one list to hold the instances, and a loop to work through them.
 A teaching tool for a computing ethics class studying Cathy O'Neil's
 "Weapons of Math Destruction."
 
-# THE CORE IDEA (O'Neil, Ch. 5 "Civilian Casualties: Justice in the Age
-
-# of Big Data"):
+# THE CORE IDEA (O'Neil, Ch. 5 "Civilian Casualties: Justice in the Age of Big Data"):
 
 A predictive policing model does NOT measure crime.
 It measures _recorded_ crime --- arrests, citations, stops.
